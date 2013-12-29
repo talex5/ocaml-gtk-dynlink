@@ -1,0 +1,2 @@
+<main.native>: linkall, package(dynlink)
+<gui_gtk.*>: package(lablgtk2), link_gtk
